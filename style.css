@@ -1,0 +1,10 @@
+#logo { 
+    height: 30px; 
+    width: 92px; 
+    overflow: hidden;
+}
+
+#logo img {
+    position: absolute;
+
+}
